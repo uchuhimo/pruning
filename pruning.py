@@ -1,7 +1,6 @@
 from utils import root_dir, ensure_dir
 import tensorflow as tf
 import numpy as np
-from tensorflow.contrib import graph_editor as ge
 from functools import partial
 import pickle
 
